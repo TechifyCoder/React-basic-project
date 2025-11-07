@@ -41,4 +41,3 @@ Passwords are stored in your browser’s `localStorage`, so they persist across 
 ## 📸 UI Preview
 ![App Screenshot](./public/ui.png)
 
-
